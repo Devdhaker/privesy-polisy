@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Terms of Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+
+    <p>Welcome to our app. By using this app, you agree to the following terms and conditions.</p>
+
+    <h2>Use of the App</h2>
+    <p>You may use this app for personal and non-commercial purposes only. Misuse or unauthorized access to the app is prohibited.</p>
+
+    <h2>User Data</h2>
+    <p>We do not collect or store personal data through this app. Any data accessed via Facebook Login remains under Facebook’s control.</p>
+
+    <h2>Limitation of Liability</h2>
+    <p>We are not liable for any damages or losses resulting from your use of this app. Use the app at your own risk.</p>
+
+    <h2>Changes to Terms</h2>
+    <p>We may update these terms from time to time. Continued use of the app after changes means you accept the updated terms.</p>
+
+    <h2>Contact</h2>
+    <p>If you have any questions about these terms, please contact us at <strong>kishandev55@yahoo.com</strong>.</p>
+
+    <p>Last Updated: March 18, 2025</p>
+</body>
+</html>
